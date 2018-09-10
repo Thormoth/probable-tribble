@@ -5,7 +5,7 @@ using namespace std;
 
 Customer::Customer()
 {
-  cout << "You must enter a name\n";
+  // cout << "You must enter a name\n";
   // delete object to clear up memory;
 }
 

@@ -12,6 +12,7 @@ Job::Job(int p, string j, Customer c)
 {
   priority = p;
   customer = c;
+  job_details = j;
 }
 
 string Job::display() const
